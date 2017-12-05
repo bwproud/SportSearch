@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SportSearch</string>
+
+    <!-- Strings related to login -->
+    <string name="feedbacktype">Favorite Sport</string>
+    <string name="prompt_email">Email</string>
+    <string name="sport1">Soccer</string>
+    <string name="sport2">Basketball</string>
+    <string name="sport3">Football</string>
+    <string name="level1">High</string>
+    <string name="level2">Medium</string>
+    <string name="level3">Low</string>
+    <string name="sport4">Tennis</string>
+    <string name="title">Event name (optional)</string>
+    <string name="zip">Zip Code</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_first">First Name</string>
+    <string name="prompt_last">Last Name</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register New User</string>create_event
+    <string name="action_create">Create New User</string>
+    <string name="create_event">Create New Pickup Game</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_zip">Invalid Zip Code</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="account_already_created">Account already created</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="default_media_location_folder">SportSearch</string>
+    <string name="title_activity_register_new_user">Register</string>
+    <string name="title_event_list">Upcoming Pickup Games</string>
+    <string name="title_event_detail">Event Detail</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_create_event">Create New Event</string>
+</resources>

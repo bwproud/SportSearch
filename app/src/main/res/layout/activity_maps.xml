@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="edu.unc.brennan.sportsearch.MapsActivity">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="457dp"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <LinearLayout
+            android:id="@+id/buttonBar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/colorPrimary"
+            style="@android:style/ButtonBar"
+            android:gravity="center"
+            android:weightSum="6"
+            >
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary" />
+            <Button android:id="@+id/saveButton" android:layout_width="0px"
+                android:layout_height="wrap_content" android:layout_weight="1"
+                android:background="@drawable/events" android:onClick="events"/>
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary" />
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@color/colorPrimaryDark" />
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary" />
+
+            <Button android:id="@+id/cancelButton" android:layout_width="0px"
+                android:layout_height="wrap_content" android:layout_weight="1"
+                android:background="@drawable/map" android:onClick="map"/>
+            <View
+                android:layout_width="0px"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

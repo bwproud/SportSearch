@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/7dc42831509c8edadf6a5a0990f8946dd2170982/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90846bbc9ee3c19eef86ec16f803f49a5eb02be5">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_59ea375447ff95686f2fd5a6adbd5457e68f341d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/8879ec63c4579ad94602d2a01e5d53f605a1b89f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8630879d462f657315caa9d3c0e6e2c97af6a992">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_85307d526fd0eb79df21a899345919f3d7514b30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/6b9bfbdaf15828de794330dc780ff5e79597e8e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_e3f04aba3196a044a5d8cebc59ab72007b4de46d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e7cef15c6aee3ae8dfa0d2b728bfcda54de8206">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_164fb1dcacd080ec760e67d9448a6a70df603a22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_07eb04bdc4d214e331b7e565c67a004c854ef04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/50330af8e3de544bad5912bdedb3527694dda66f/output/jars/libs/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4604f46bdb50e47d0311f5e04f6612fb1cfbd0d8">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2_6f39547027e70e708cf33e4949d01da5a812b03d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/d17d06b99e4f2ce262e9cf279d67f6128166b5b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_5a6d42f578642f4d47cfa0dfe5fd6767ddbbed28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/9794b2f7cee163e2ff8d65719627294a32e942bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b13b092abc01309e88a63babaa9f5b082b1c852">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_02a85b72233d9012041ea57994db55b9594f3b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/2e977c35ffce210b956cd62cab53fdb8ad24b488/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_1afde9227b032ff35bcfc33764ed958a555fd8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/50330af8e3de544bad5912bdedb3527694dda66f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="017caf526a1cec257a13def9f8ea2ebe5177fc5a">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_7a5e5df13f2e4e8301fb020aa15b80d2617d59a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/50330af8e3de544bad5912bdedb3527694dda66f/output/jars/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea3a0d4d7493bf9cee83f80276b08d955adf31d5">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_456edbc2944af2969e2e76e371d87d9b91a6df8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/7814070366e0e03fd01d8b520ae44ac69b0e0af5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_0cd98e657410190358ee586f454ff717870710b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/023fa0e38c59e960271ea1960fae53b12b3e01a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bdd7d9e3738831a529d895bef16f9b7dccfd4ed">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_f83f69d96039b8041674f7e681d40f416e52fa28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/ac09d48053c2916d5692945c12edfd35af6c1215/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_4e3f4fe39d525d76805c078165afc2a148d8d65d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Brennan/.android/build-cache/f3cd4e8f5d54ee5ab2dbb035c300ea6f815cb4be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a7f46cbd5607e57e0aadce84c6a59dafeef1a7e">
+        <dex dex="/Users/Brennan/AndroidStudioProjects/SportSearch/app/build/intermediates/pre-dexed/debug/classes_3ada93c0b29814701b7dd26f3877ea0990d58011.jar" />
+    </item>
+
+</items>

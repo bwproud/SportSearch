@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "665581333926",
+    "firebase_url": "https://sportsearch-adb86.firebaseio.com",
+    "project_id": "sportsearch-adb86",
+    "storage_bucket": "sportsearch-adb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665581333926:android:882b44850b453920",
+        "android_client_info": {
+          "package_name": "edu.unc.brennan.sportsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665581333926-apjalfed4vobr78mk87t4vurbfp5or51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.unc.brennan.sportsearch",
+            "certificate_hash": "a3fd2caa61a28d89612e734c23121c7f607717c3"
+          }
+        },
+        {
+          "client_id": "665581333926-eja4opvhg82ks9od4jjpvt5oqjnhjiud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOx6IMVE-jN2JPnD6KjPz9vf2HdsMY95o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665581333926-eja4opvhg82ks9od4jjpvt5oqjnhjiud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

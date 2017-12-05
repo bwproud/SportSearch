@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedbacktypelist">
+        <item>@string/sport1</item>
+        <item>@string/sport2</item>
+        <item>@string/sport3</item>
+        <item>@string/sport4</item>
+    </string-array>
+
+    <string-array name="levels">
+        <item>@string/level1</item>
+        <item>@string/level2</item>
+        <item>@string/level3</item>
+    </string-array>
+</resources>
